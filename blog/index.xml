@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Studi&#39;Orchestra</title>
+    <link>http://studiorchestra.github.io/blog/</link>
+    <description>Recent content in Blogs on Studi&#39;Orchestra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
+    <lastBuildDate>Wed, 08 Sep 2021 12:52:36 +0600</lastBuildDate><atom:link href="http://studiorchestra.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le studi en stage</title>
+      <link>http://studiorchestra.github.io/blog/studi-en-stage_2021/</link>
+      <pubDate>Wed, 08 Sep 2021 12:52:36 +0600</pubDate>
+      
+      <guid>http://studiorchestra.github.io/blog/studi-en-stage_2021/</guid>
+      <description>Lassé de ne pouvoir jouer ensemble, le Studi&amp;rsquo;Orchestra a profité de l&amp;rsquo;accalmie d&amp;rsquo;Août pour organiser un stage, un vrai de vrai !</description>
+    </item>
+    
+    <item>
+      <title>Jouons pendant le confinement</title>
+      <link>http://studiorchestra.github.io/blog/jouons-en-confinement_2020/</link>
+      <pubDate>Thu, 30 Apr 2020 12:00:00 +0600</pubDate>
+      
+      <guid>http://studiorchestra.github.io/blog/jouons-en-confinement_2020/</guid>
+      <description>En ces début 2020, les temps sont troubles. Une pandémie fait rage, les gens sont confinés chez eux et surtout&amp;hellip; Nous ne pouvons pas répéter en orchestre !</description>
+    </item>
+    
+  </channel>
+</rss>
